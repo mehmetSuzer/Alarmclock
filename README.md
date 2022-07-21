@@ -26,4 +26,4 @@ That the builtin LED is HIGH indicates that Pico gets power and starts both core
 
 Instead of sleep, busy_wait is used because of the interrupt of alarm. Check sleep_ms functions for more information.
 
---------------------------------------------------------------------------
+
